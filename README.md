@@ -38,13 +38,13 @@ This project analyzes crime trends in Los Angeles using LAPD public safety data.
 - Reporting delays vary significantly by crime type: violent crimes such as assault are typically reported immediately (median near 0 days), while crimes like identity theft and theft-related offenses show longer reporting delays and greater variability.
 
 ## Project Structure
-data/
-cleaned_crime_data.csv
-get_data.py
-clean_data.py
-visualize.py
-charts/
-README.md
+- data/
+- cleaned_crime_data.csv
+- get_data.py
+- clean_data.py
+- visualize.py
+- charts/
+- README.md
 
 ## Future Work
 - Apply machine learning to predict crime patterns and other data.
